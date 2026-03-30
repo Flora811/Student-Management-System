@@ -26,6 +26,11 @@ public class DashboardController {
         this.dashboardService = dashboardService;
     }
 
+    @GetMapping("/")
+    public String home() {
+        return "redirect:/dashboard"; // or "/login" for new sessions
+    }
+
     @GetMapping("/dashboard")
     public String dashboard(Model model){
         model.addAttribute("dashboardStats", dashboardService.getDashboardStats());
