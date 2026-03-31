@@ -114,15 +114,15 @@ Check out the deployed project here: [Student Management System on Render](https
 ## 🖼 Screenshots
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15AD-Qf20KqtPs1Usz-3IXhzNaKTa5sQM" width="30%" />
-  <img src="https://drive.google.com/uc?export=view&id=1gESR796guljxrKGwkjUKwIbzyDiIQLUq" width="30%" />
-  <img src="https://drive.google.com/uc?export=view&id=1C783FWWD5lmo5ewZYYPgogExw6U3AF2m" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=15AD-Qf20KqtPs1Usz-3IXhzNaKTa5sQM" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1gESR796guljxrKGwkjUKwIbzyDiIQLUq" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1C783FWWD5lmo5ewZYYPgogExw6U3AF2m" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1vFNVWNuNtPn4nWG3WhbMycsdk0LzQSwe" width="30%" />
-  <img src="https://drive.google.com/uc?export=view&id=11bVINADZNqy-au8BIzde8OtU7U6rSVYf" width="30%" />
-  <img src="https://drive.google.com/uc?export=view&id=1UUtlAzGbzKt5ppx_Wd64bmvRA_brME6p" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=1vFNVWNuNtPn4nWG3WhbMycsdk0LzQSwe" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=11bVINADZNqy-au8BIzde8OtU7U6rSVYf" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1UUtlAzGbzKt5ppx_Wd64bmvRA_brME6p" width="45%" />
 </p>
 
 
