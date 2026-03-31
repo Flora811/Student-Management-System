@@ -113,45 +113,17 @@ Check out the deployed project here: [Student Management System on Render](https
 
 ## 🖼 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=15AD-Qf20KqtPs1Usz-3IXhzNaKTa5sQM" 
-         alt="Dashboard Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Dashboard</strong></p>
-  </div>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15AD-Qf20KqtPs1Usz-3IXhzNaKTa5sQM" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=1gESR796guljxrKGwkjUKwIbzyDiIQLUq" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=1C783FWWD5lmo5ewZYYPgogExw6U3AF2m" width="30%" />
+</p>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1gESR796guljxrKGwkjUKwIbzyDiIQLUq" 
-         alt="Student List Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Student List</strong></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1C783FWWD5lmo5ewZYYPgogExw6U3AF2m" 
-         alt="Course List Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Course List</strong></p>
-  </div>
-
-  <!-- Add more cards as needed -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1vFNVWNuNtPn4nWG3WhbMycsdk0LzQSwe" 
-         alt="Enrollment Form Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Enrollment Form</strong></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=11bVINADZNqy-au8BIzde8OtU7U6rSVYf" 
-         alt="Enrollment List Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Enrollment List</strong></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; width: 300px; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1UUtlAzGbzKt5ppx_Wd64bmvRA_brME6p" 
-         alt="Student Details Screenshot" style="width:100%; border-radius: 8px;" />
-    <p><strong>Student Details</strong></p>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1vFNVWNuNtPn4nWG3WhbMycsdk0LzQSwe" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=11bVINADZNqy-au8BIzde8OtU7U6rSVYf" width="30%" />
+  <img src="https://drive.google.com/uc?export=view&id=1UUtlAzGbzKt5ppx_Wd64bmvRA_brME6p" width="30%" />
+</p>
 
 
 ## ⚙️ Installation and Setup
@@ -254,11 +226,11 @@ Run with Docker
 
 <div align="center" style="margin-top: 40px;">
   <strong>🌟 Connect With Me:</strong><br><br>
-  <a href="https://www.github.com/Flora811">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/flora--bhatt">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.github.com/Flora811" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/flora--bhatt" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
