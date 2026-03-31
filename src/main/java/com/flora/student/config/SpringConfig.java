@@ -17,7 +17,8 @@ public class SpringConfig {
             "/css/**",
             "/images/**",
             "/js/**",
-            "/error"
+            "/error",
+            "/corn/**"
     };
 
     @Bean
