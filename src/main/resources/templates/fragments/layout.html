@@ -16,22 +16,33 @@
       <i class="bi bi-mortarboard-fill me-2"></i> SMS Admin
     </div>
     <div class="list-group list-group-flush">
-      <a th:href="@{/dashboard}" class="sidebar-link">
+      <a th:href="@{/dashboard}"
+         th:classappend="${activePage == 'dashboard'} ? ' active'"
+         class="sidebar-link">
         <i class="bi bi-speedometer2"></i> Dashboard
       </a>
 <!--    courses.html to ->  @{/course/list}-->
-      <a th:href="@{/course/list}" class="sidebar-link active">
+      <a th:href="@{/course/list}"
+         th:classappend="${activePage == 'courses'} ? ' active'"
+         class="sidebar-link ">
         <i class="bi bi-book"></i> Courses
       </a>
-      <a th:href="@{/student/list}" class="sidebar-link">
+      <a th:href="@{/student/list}"
+         th:classappend="${activePage == 'students'} ? ' active'"
+         class="sidebar-link">
         <i class="bi bi-people"></i> Students
       </a>
-      <a th:href="@{/enrollments/showEnroll}" class="sidebar-link">
+      <a th:href="@{/enrollments/showEnroll}"
+         th:classappend="${activePage == 'enroll'} ? ' active'"
+         class="sidebar-link">
         <i class="bi bi-check2-square"></i> Enroll to Course
       </a>
-      <a th:href="@{/enrollments/enrollmentList}" class="sidebar-link">
+      <a th:href="@{/enrollments/enrollmentList}"
+         th:classappend="${activePage == 'enrolledStudents'} ? ' active'"
+         class="sidebar-link">
         <i class="bi bi-person-check-fill"></i> Enrolled Students
       </a>
+
       <form method="post" th:action="@{/logout}" class="mt-auto border-top border-secondary">
         <input type="hidden"
                th:name="${_csrf.parameterName}"
@@ -78,7 +89,7 @@
   <footer  class="py-4 bg-light mt-auto border-top">
     <div class="container-fluid px-4">
       <div class="d-flex align-items-center justify-content-between small">
-        <div class="text-muted">Copyright &copy; Student Management System 2023</div>
+        <div class="text-muted">&copy; 2026 Student Management System · Built by Flora Bhatt</div>
         <div>
           <a href="#">Privacy Policy</a>
           &middot;
