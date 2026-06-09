@@ -30,7 +30,7 @@ Check out the deployed project here: [Student Management System on Render](https
 - HTML, CSS, JS
 
 **Database**
-- MySQL
+- PostgreSQL
 
 **DevOps & Deployment**
 - Docker
