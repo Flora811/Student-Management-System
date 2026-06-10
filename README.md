@@ -158,7 +158,7 @@ Check out the deployed project here: [Student Management System on Render](https
 <details>
   <summary><strong><em>Login Credentials</em></strong></summary>
 
-- **Username:** *ADMIN*
+- **Username:** *admin*
 - **Password:** *admin@123*
 
 </details>
