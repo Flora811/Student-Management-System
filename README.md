@@ -30,7 +30,7 @@ Check out the deployed project here: [Student Management System on Render](https
 - HTML, CSS, JS
 
 **Database**
-- MySQL
+- PostgreSQL
 
 **DevOps & Deployment**
 - Docker
@@ -232,5 +232,9 @@ Run with Docker
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/flora--bhatt" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://flora811.github.io/Portfolio-Website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
