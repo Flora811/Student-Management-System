@@ -19,9 +19,9 @@ public class DataInitailizer implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        if(!userRepository.existsByUsername("Admin")){
+        if(!userRepository.existsByUsername("admin")){
             Users user = new Users();
-            user.setUsername("Admin");
+            user.setUsername("admin");
             user.setPassword(passwordEncoder.encode("admin@123"));
             user.setActive(true);
             userRepository.save(user);
